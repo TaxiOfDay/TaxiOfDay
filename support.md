@@ -9,7 +9,7 @@
 ### Do you want to try a day of being a taxi driver? Your work is deliver passengers waiting on both ends of the road, pay attention to avoid other cars driving on the road and walking people. How many score can you get? Have a try!
 
 ## Screenshots:
-![ERROR](./img/1.png)
-![ERROR](./img/2.png)
-![ERROR](./img/3.png)
+![LOADING](./img/1.png)
+![LOADING](./img/2.png)
+![LOADING](./img/3.png)
 
